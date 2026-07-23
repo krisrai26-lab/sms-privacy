@@ -5,7 +5,7 @@ title: Opt in to Mila SMS
 
 # Opt in to Mila SMS
 
-Mila is Kristopher Rai's personal assistant. This is a low-volume,
+Mila is Kristopher Rai's AI personal assistant. This is a low-volume,
 one-to-one messaging program for scheduling, reminders, and personal or
 professional logistics. It does not send marketing or promotional messages.
 
@@ -23,7 +23,7 @@ message records your consent.
     <label>
       <input id="sms-consent" type="checkbox" required>
       I agree to receive low-volume conversational SMS messages from
-      Kristopher Rai and Mila, his personal assistant, for scheduling,
+      Kristopher Rai and Mila, his AI personal assistant, for scheduling,
       reminders, and personal or professional logistics. Message frequency
       varies. Message and data rates may apply. Consent is not a condition of
       purchase. Reply STOP to opt out or HELP for help.
@@ -64,9 +64,9 @@ message records your consent.
 
 You will receive this confirmation after sending START:
 
-> Kristopher Rai: You are opted in to low-volume scheduling, reminder, and
-> logistics texts from Mila, Kris's personal assistant. Message frequency
-> varies. Msg & data rates may apply. Reply HELP for help or STOP to opt out.
+> Kristopher Rai: you are opted in to low-volume scheduling and logistics
+> texts from Mila, Kris's AI assistant. Reply HELP for help or STOP to opt
+> out. Msg&data rates may apply.
 
 Your mobile information and SMS consent will not be sold, rented, or shared
 with third parties or affiliates for marketing or promotional purposes.

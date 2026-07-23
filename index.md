@@ -3,7 +3,7 @@
 _Last updated: July 23, 2026_
 
 This policy covers the low-volume SMS program operated by Kristopher Rai
-through his personal assistant line, Mila, for scheduling, reminders, and
+through his AI personal assistant line, Mila, for scheduling, reminders, and
 personal or professional logistics. It does not send marketing or
 promotional messages.
 

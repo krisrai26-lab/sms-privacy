@@ -4,7 +4,7 @@ _Last updated: July 23, 2026_
 
 ## Program
 
-Kristopher Rai personal assistant messaging ("Mila") is a low-volume,
+Kristopher Rai AI personal assistant messaging ("Mila") is a low-volume,
 one-to-one SMS program for scheduling, reminders, and personal or
 professional logistics. It does not send marketing or promotional messages.
 
@@ -15,7 +15,7 @@ You enroll only through the public
 After reviewing the disclosure and actively selecting its unchecked consent
 box, send **START** from your mobile number to **+1 (786) 833-8144**. Sending
 START records your agreement to receive messages from Kristopher Rai and
-Mila, his personal assistant, for the purposes described above. Consent is
+Mila, his AI personal assistant, for the purposes described above. Consent is
 not a condition of purchase.
 
 - **Message frequency:** varies by conversation; low volume.

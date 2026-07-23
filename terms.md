@@ -1,14 +1,29 @@
 # SMS Terms & Conditions — Kristopher Rai (personal assistant line "Mila")
 
-_Last updated: July 10, 2026_
+_Last updated: July 23, 2026_
 
-By sharing your mobile number with Kristopher Rai, you agree to receive conversational text messages from him or his AI assistant, Mila, regarding scheduling, reminders, and personal/professional logistics.
+## Program
 
-- **Program name:** Kristopher Rai personal assistant messaging ("Mila")
-- **Message frequency:** varies by conversation; low volume
-- **Fees:** message and data rates may apply per your carrier plan
-- **Opt out:** reply **STOP** at any time to stop all messages permanently
-- **Help:** reply **HELP** or email krisrai26@gmail.com
-- **Privacy:** see the [SMS Privacy Policy](https://krisrai26-lab.github.io/sms-privacy/) — no mobile information is sold, rented, or shared with third parties or affiliates for marketing purposes
+Kristopher Rai personal assistant messaging ("Mila") is a low-volume,
+one-to-one SMS program for scheduling, reminders, and personal or
+professional logistics. It does not send marketing or promotional messages.
+
+## Consent
+
+You enroll only through the public
+[Mila SMS opt-in page](https://krisrai26-lab.github.io/sms-privacy/opt-in.html).
+After reviewing the disclosure and actively selecting its unchecked consent
+box, send **START** from your mobile number to **+1 (786) 833-8144**. Sending
+START records your agreement to receive messages from Kristopher Rai and
+Mila, his personal assistant, for the purposes described above. Consent is
+not a condition of purchase.
+
+- **Message frequency:** varies by conversation; low volume.
+- **Fees:** message and data rates may apply under your carrier plan.
+- **Opt out:** reply **STOP** at any time to stop messages.
+- **Help:** reply **HELP** or email krisrai26@gmail.com.
+- **Privacy:** see the [SMS Privacy Policy](https://krisrai26-lab.github.io/sms-privacy/).
+  No mobile information or SMS consent data is sold, rented, or shared with
+  third parties or affiliates for marketing or promotional purposes.
 
 Carriers are not liable for delayed or undelivered messages.
